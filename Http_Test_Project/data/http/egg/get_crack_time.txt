@@ -1,0 +1,1 @@
+[{"obj":"CrackEggExtObj","func":"GetCrackTime","param":"","global":{"uid":"%s","roomid":"%s"}}]

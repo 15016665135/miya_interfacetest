@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"ReplyIntimate","param":"{\"agree\":true,\"player_id\":1018438,\"type\":2000}","global":{"uid":"1021023","roomid":"1021023"}}]

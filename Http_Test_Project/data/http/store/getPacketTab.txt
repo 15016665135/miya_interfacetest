@@ -1,0 +1,1 @@
+[{"obj":"StoreExtObj","func":"GetPacketTabs","param":"","global":{"uid":"%s","roomid":"%s"}}]

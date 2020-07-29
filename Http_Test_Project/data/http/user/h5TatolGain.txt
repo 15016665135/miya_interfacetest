@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"H5TatolGain","param":"{\"type\":1}","global":{"uid":"%s","roomid":"%s"}}]

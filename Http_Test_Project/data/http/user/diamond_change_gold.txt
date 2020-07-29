@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"DiamondChangCoin","param":"{\"diamond\":10,\"passwd\":\"123456\"}","global":{"uid":"108188","roomid":"108188"}}]

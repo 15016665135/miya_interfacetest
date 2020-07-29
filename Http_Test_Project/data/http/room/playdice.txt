@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"PlayDice","param":"","global":{"uid":"%s","roomid":"%s"}}]

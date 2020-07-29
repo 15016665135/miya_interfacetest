@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"FansList","param":"{\"page\":1,\"page_size\":20,\"player_id\":%s}","global":{"uid":"%s","roomid":"%s"}}]

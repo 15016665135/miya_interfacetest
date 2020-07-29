@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"GetRank","param":"{\"type\":0}","global":{"uid":"%s","roomid":"%s"}}]

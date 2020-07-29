@@ -1,0 +1,1 @@
+[{"obj":"CrackEggExtObj","func":"CrackEgg","param":"{\"open\":true}","global":{"uid":"%s","roomid":"%s"}}]

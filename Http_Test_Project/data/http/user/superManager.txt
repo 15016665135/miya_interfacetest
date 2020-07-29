@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"SuperManager","param":"{\"banType\":2,\"playerId\":1013456,\"time\":3}","global":{"uid":"%s","roomid":"%s"}}]

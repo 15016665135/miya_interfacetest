@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"GetOnOffStatus","param":"{\"type\":18}","global":{"uid":"%s","roomid":"%s"}}]

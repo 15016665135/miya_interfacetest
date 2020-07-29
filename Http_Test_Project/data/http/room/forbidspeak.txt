@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"ForbidSpeak","param":"{\"forbid_speak_time\":30,\"to_player_id\":2002679}","global":{"uid":"%s","roomid":"%s"}}]

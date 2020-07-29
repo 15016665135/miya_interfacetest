@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"H5PlayerGains","param":"{\"type\":1}","global":{"uid":"%s","roomid":"%s"}}]

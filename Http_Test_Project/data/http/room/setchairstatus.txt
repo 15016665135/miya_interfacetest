@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"SetChairStatus","param":"{\"chair_id\":1,\"status\":1}","global":{"uid":"%s","roomid":"%s"}}]

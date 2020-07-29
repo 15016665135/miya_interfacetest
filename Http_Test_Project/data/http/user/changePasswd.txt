@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"ChangePasswd","param":"{\"value\":\"a123456\"}","global":{"uid":"%s","roomid":"%s"}}]

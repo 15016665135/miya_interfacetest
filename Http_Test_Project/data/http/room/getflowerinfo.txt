@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"GetFlowerInfo","param":"","global":{"uid":"%s","roomid":"%s"}}]

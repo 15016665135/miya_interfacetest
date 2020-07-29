@@ -1,0 +1,1 @@
+[{"obj":"AssetsExtObj","func":"GetMoney","param":"","global":{"uid":"108188","roomid":"108188"}}]

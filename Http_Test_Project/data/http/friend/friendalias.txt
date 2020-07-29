@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"FriendAlias","param":"{\"id\":1015301,\"name\":\"备注好友1\"}","global":{"uid":"%s","roomid":"%s"}}]

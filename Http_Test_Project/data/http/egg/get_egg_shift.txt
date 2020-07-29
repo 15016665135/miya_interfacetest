@@ -1,0 +1,1 @@
+[{"obj":"CrackEggExtObj","func":"GetShift","param":"{\"op_type\":1}","global":{"uid":"%s","roomid":"%s"}}]

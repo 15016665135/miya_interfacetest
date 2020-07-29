@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"SitChair","param":"{\"chair_id\":5,\"target_id\":108188}","global":{"uid":"108188","roomid":"107860"}}]

@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"FriendOper","param":"{\"id\":1018621,\"oper\":2}","global":{"uid":"%s","roomid":"%s"}}]

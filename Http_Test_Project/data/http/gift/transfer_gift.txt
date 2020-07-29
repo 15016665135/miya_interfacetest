@@ -1,0 +1,1 @@
+[{"obj":"GiftExtObj","func":"TransferGift","param":"{\"gift_entry\":2000,\"gift_num\":1,\"to_id\":2014630}","global":{"uid":"%s","roomid":"%s"}}]

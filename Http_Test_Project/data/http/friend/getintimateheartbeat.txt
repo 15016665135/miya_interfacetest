@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"GetIntimateHeartbeat","param":"{\"key\":\"//string\"}","global":{"uid":"%s","roomid":"%s"}}]

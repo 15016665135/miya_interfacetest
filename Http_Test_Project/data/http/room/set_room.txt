@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"SetRoom","param":"{\"category\":1,\"greeting\":\"我的天\",\"name\":\"终于过了\",\"password\":\"123456\",\"pattern\":1}","global":{"uid":"111847","roomid":"111847"}}]

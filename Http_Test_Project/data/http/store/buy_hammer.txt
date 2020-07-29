@@ -1,0 +1,1 @@
+[{"obj":"StoreExtObj","func":"Buy","param":"{\"id\":6,\"num\":1,\"receive_address\":\"6\",\"receive_phone\":\"7\",\"receiver\":\"8\",\"type\":0}","global":{"uid":"%s","roomid":"%s"}}]

@@ -1,0 +1,1 @@
+[{"obj":"GiftExtObj","func":"GetGiftConfig","param":"","global":{"uid":"%s","roomid":"%s"}}]

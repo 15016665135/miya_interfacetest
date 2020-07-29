@@ -1,0 +1,1 @@
+[{"obj":"IndexExtObj","func":"TabList","param":"{\"key_word\":\"房间\",\"page\":1,\"page_size\":10,\"position\":1,\"sex\":0,\"tab\":4}","global":{"uid":"111847","roomid":"111847"}},{"obj":"IndexExtObj","func":"TabList","param":"{\"key_word\":\"女友\",\"page\":1,\"page_size\":10,\"position\":1,\"sex\":0,\"tab\":4}","global":{"uid":"111847","roomid":"111847"}}]

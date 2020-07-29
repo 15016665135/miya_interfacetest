@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"UpdateSpecialAttention","param":"{\"friend_id\":2001080,\"type\":1}","global":{"uid":"%s","roomid":"%s"}}]

@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"SetUserInfo","param":"{\"signature\":\"我的个性签名\",\"type\":5}","global":{"uid":"%s","roomid":"%s"}}]

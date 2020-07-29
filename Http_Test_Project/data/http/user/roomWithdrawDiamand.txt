@@ -1,0 +1,1 @@
+[{"obj":"UserExtObj","func":"RoomWithdrawDiamand","param":"{\"value\":10000}","global":{"uid":"%s","roomid":"%s"}}]

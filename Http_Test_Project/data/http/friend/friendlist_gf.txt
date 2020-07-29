@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"FriendList","param":"{\"type\":2}","global":{"uid":"%s","roomid":"%s"}}]

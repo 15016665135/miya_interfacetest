@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"UserSig","param":"","global":{"uid":"1015735","roomid":"1015735"}},{"obj":"FriendExtObj","func":"UserSig","param":"","global":{"uid":"%s","roomid":"%s"}}]

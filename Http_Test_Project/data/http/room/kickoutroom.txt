@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"KickoutRoom","param":"{\"to_player_id\":2002679}","global":{"uid":"%s","roomid":"%s"}}]

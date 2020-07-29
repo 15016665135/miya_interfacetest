@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"SetChairSpeak","param":"{\"chair_ban_speak\":true,\"target_id\":2}","global":{"uid":"%s","roomid":"%s"}}]

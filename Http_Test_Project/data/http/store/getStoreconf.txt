@@ -1,0 +1,1 @@
+[{"obj":"StoreExtObj","func":"GetStoreConf","param":"{\"all\":true}","global":{"uid":"%s","roomid":"%s"}}]

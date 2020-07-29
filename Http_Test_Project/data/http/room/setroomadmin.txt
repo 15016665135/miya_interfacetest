@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"SetRoomAdmin","param":"{\"admin_type\":20,\"to_player_id\":1017020}","global":{"uid":"%s","roomid":"%s"}}]

@@ -1,0 +1,1 @@
+[{"obj":"AssetsExtObj","func":"UseEffect","param":"{\"effect_id\":%s,\"use_status\":0}","global":{"uid":"%s","roomid":"%s"}}]

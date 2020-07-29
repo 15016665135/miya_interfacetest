@@ -1,0 +1,1 @@
+[{"obj":"FriendExtObj","func":"IntimateConfExt","param":"","global":{"uid":"%s","roomid":"%s"}}]

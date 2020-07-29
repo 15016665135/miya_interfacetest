@@ -1,0 +1,17 @@
+2020-04-08 16:30:46,199 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:30:46,210 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:32:13,327 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:32:13,339 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:32:25,517 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:32:25,528 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:32:38,473 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:32:38,485 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:32:47,752 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:32:47,766 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:33:14,118 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:33:14,128 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:33:35,283 - ERROR - 连接mysql失败：(2013, 'Lost connection to MySQL server during query')
+2020-04-08 16:33:35,295 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:33:55,536 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:34:19,846 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.
+2020-04-08 16:34:41,612 - ERROR - http post 请求失败:'latin-1' codec can't encode characters in position 80-83: Body ('备注好友') is not valid Latin-1. Use body.encode('utf-8') if you want to send it encoded in UTF-8.

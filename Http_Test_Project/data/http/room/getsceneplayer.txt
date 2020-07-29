@@ -1,0 +1,1 @@
+[{"obj":"RoomExtObj","func":"GetScenePlayer","param":"{\"player_id\":2000526}","global":{"uid":"%s","roomid":"%s"}}]

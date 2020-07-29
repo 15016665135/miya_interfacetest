@@ -1,0 +1,1 @@
+[{"obj":"StoreExtObj","func":"GetExchangeConf","param":"{\"player_id\":1015735}","global":{"uid":"%s","roomid":"%s"}}]
